@@ -1,5 +1,5 @@
 
-import ToDoItem from "./ToDoItem"
+import ToDoItem from "./ToDoItem.jsx";
 
 function ToDoList(props) {
 

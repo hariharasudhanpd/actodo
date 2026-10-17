@@ -1,5 +1,5 @@
 import AddToDoForm from "./AddToDoForm"
-import ToDoList from "./ToDoLIst"
+import ToDoList from "./ToDoList.jsx"
 import { useState } from "react"
 
 function ToDoContainer() {
